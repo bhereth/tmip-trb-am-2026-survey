@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "D:\\GitHub\\survey",
+        "app_url": "https://wfrc.shinyapps.io/survey/",
+        "app_id": "15277124",
+        "app_guid": null,
+        "title": "survey",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
